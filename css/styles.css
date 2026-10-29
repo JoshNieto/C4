@@ -71,7 +71,6 @@ main p {
 }
 
 #piano, #guitar, #violin {
-   width: 29%;
    float: left;
    margin: 0 2%;
 }
