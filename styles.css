@@ -11,11 +11,11 @@ body, header, nav, main, footer, img, h1 {
    border: 0;
 }
 
-
-
-
-
-
+/* Style rule for images */
+img {
+   max-width: 100%;
+   display: block;
+}
 
 /* Style rules for header content */
 header {
